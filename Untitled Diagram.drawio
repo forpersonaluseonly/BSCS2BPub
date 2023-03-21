@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-21T08:14:11.494Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.44" etag="F5q3WRV2ur2cRXeRpl-1" version="21.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-21T08:18:34.742Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.44" etag="om9SOECBDG0r_PcONQ2E" version="21.0.8" type="github">
   <diagram name="Page-1" id="IfERYH7wBA60UohbNIlO">
-    <mxGraphModel dx="1885" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1583" dy="412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -89,6 +89,21 @@
         </mxCell>
         <mxCell id="xIak3zuEA5ebnnhG0JyV-25" value="full-time employee" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="450" y="500" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xIak3zuEA5ebnnhG0JyV-38" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="xIak3zuEA5ebnnhG0JyV-36" target="xIak3zuEA5ebnnhG0JyV-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xIak3zuEA5ebnnhG0JyV-36" value="hourly rate" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="260" y="590" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xIak3zuEA5ebnnhG0JyV-39" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="xIak3zuEA5ebnnhG0JyV-37" target="xIak3zuEA5ebnnhG0JyV-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xIak3zuEA5ebnnhG0JyV-37" value="annual salary" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="410" y="590" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xIak3zuEA5ebnnhG0JyV-40" value="Manager" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="600" y="590" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
